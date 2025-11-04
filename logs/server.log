@@ -1,0 +1,13 @@
+
+> vibe-generated-app@1.0.0 dev
+> vite
+
+
+  VITE v5.4.20  ready in 309 ms
+
+  ➜  Local:   http://localhost:3000/
+  ➜  Network: http://172.20.10.223:3000/
+1:35:31 PM [vite] Pre-transform error: Transform failed with 1 error:
+/home/workspace/src/components/QueryInput.jsx:36:67: ERROR: Expected ">" but found "?"
+1:35:32 PM [vite] ✨ new dependencies optimized: lucide-react
+1:35:32 PM [vite] ✨ optimized dependencies changed. reloading
